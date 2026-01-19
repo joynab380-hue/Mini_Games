@@ -19,6 +19,7 @@ MiniGames.exe # Windows
 ## Menu System
 
 When you run the program, you’ll see a menu:
+
 ===== Mini Game Hub =====
 1. Snake
 2. Tic Tac Toe
@@ -61,7 +62,7 @@ Enter the number of the game you want to play.
 ---------
 4 | 5 | 6
 ---------
-7 | 8 | 9
+**7 | 8 | 9**
 
 **Gameplay Tips:**
 
